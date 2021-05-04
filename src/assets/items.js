@@ -11,7 +11,7 @@ const items = [{
     "title": "Website",
     "subtitle": "Look at my work!",
     "image": website,
-    "link": "https://aritro.me"
+    "link": "https://aritro.xyz"
 },
 {
     "title": "GitHub",
