@@ -27,7 +27,7 @@
   force = true
   headers = {X-From = "aritro.work"}
   
-  [[redirects]]
+[[redirects]]
   from = "/anime"
   to = "https://www.notion.so/aritropaul/Anime-4b5da20f604f404da3d19d6e82baedd1"
   status = 302
