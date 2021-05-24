@@ -33,3 +33,10 @@
   status = 302
   force = true
   headers = {X-From = "aritro.work"}
+
+[[redirects]]
+  from = "/bois"
+  to = "https://umd.zoom.us/j/5035619879"
+  status = 302
+  force = true
+  headers = {X-From = "aritro.work"}
